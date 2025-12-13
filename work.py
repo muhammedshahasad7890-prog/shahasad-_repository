@@ -30,3 +30,6 @@ def div(x,y):
 
 def mul(x,y):
     return x*y
+
+h = hello
+h = hai
